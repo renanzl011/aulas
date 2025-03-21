@@ -1,0 +1,1 @@
+print ("o eder da o cu")
