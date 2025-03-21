@@ -1,1 +1,1 @@
-print ("o eder da o cu")
+print ("ola mundo")
